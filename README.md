@@ -1,5 +1,3 @@
-# ai-travel-planner
-
 # AI Travel Planner ✈️
 
 An AI-powered frontend web application that helps users plan personalized trips based on their destination, travel dates, budget, and interests.
